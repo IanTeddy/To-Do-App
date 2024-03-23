@@ -13,3 +13,7 @@ What is the difference between querySelectorAll and getElementsByTagName?<br>
 
 
 ## 🎥 Video
+
+
+https://github.com/IanTeddy/To-Do-App/assets/136382277/e60e020f-99f8-44f6-b876-4b0731cae379
+
